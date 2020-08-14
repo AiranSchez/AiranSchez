@@ -16,7 +16,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiranSchez&hide=contribs,prs)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiranSchez&count_private=true)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiranSchez&show_icons=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiranSchez&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiranSchez&show_icons=true&theme=tokyonight)
 
 Here are some ideas to get you started:
 
