@@ -15,6 +15,8 @@
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiranSchez&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiranSchez)](https://github.com/AiranSchez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiranSchez&layout=compact)](https://github.com/AiranSchez/github-readme-stats)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AiranSchez&repo=Pokedex-React)](https://github.com/AiranSchez/Pokedex-React)
