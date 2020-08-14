@@ -30,7 +30,7 @@
 - ⚡ Fun fact **I love cats but I'm allergic :(**
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiranSchez&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiranSchez&theme=tokyonight)](https://github.com/AiranSchez/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiranSchez&layout=compact&theme=tokyonight)](https://github.com/AiranSchez/github-readme-stats)
 
 
 
@@ -67,9 +67,9 @@
 
 
 ## 🔧 Tools
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intelliJ&logoColor=00E5E5)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-Jetbrains-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
+![GitHub](https://img.shields.io/badge/Github-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-VSC-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 
 ## 🚀 My projects
