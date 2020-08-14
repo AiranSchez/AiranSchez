@@ -12,7 +12,8 @@
 </p>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiranSchez)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiranSchez)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AiranSchez&hide=contribs,prs)
 
 Here are some ideas to get you started:
 
