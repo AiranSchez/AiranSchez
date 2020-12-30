@@ -74,6 +74,8 @@
 
 ## 🚀 My projects
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AiranSchez&repo=ControlHorarios-Frontend)](https://github.com/AiranSchez/ControlHorarios-Frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AiranSchez&repo=ControlHorarios-Backend)](https://github.com/AiranSchez/ControlHorarios-Backend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AiranSchez&repo=Pokedex-React)](https://github.com/AiranSchez/Pokedex-React)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AiranSchez&repo=Public-Transport-Race)](https://github.com/AiranSchez/Public-Transport-Race)
 
