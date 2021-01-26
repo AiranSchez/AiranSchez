@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **React, Vue and TypeScript**
 
-- 📝 I regulary write articles on [https://airanschez.wordpress.com/blog-2/](https://airanschez.wordpress.com/blog-2/)
+- 📝 I regulary write articles on [https://airanschez.com](https://airanschez.com)
 
 - 💬 Ask me about **Anything, I'm always glad to help everybody**
 
