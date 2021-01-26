@@ -68,6 +68,8 @@
 ## 🔧 Tools
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
 ![Visual Studio Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
+![JetBrains](https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg)
+
 
 
 ## 🚀 My projects
