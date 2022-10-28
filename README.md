@@ -17,7 +17,7 @@
 
 ## 🙂 About me
 
-- 🔭 I’m currently working on [Pokedex-React](https://github.com/AiranSchez/Pokedex-React)
+- 🔭 I’m currently working on [DesingChallenge-1]([https://github.com/AiranSchez/Pokedex-React](https://github.com/AiranSchez/DesignChallenge-1))
 
 - 🌱 I’m currently learning **React, Vue and TypeScript**
 
